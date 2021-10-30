@@ -1,9 +1,9 @@
-- 👋 Hi, I am Thibault Saussac
-- 👀 I am interested in DevOps, Cloud and Software developpment. 
-- 🍊 I work at Orange Innovation.
-- 🏫 During my free time, I am teaching DevOps module @Université Gustave Eiffel.
+👋 Hi, I am Thibault Saussac
+👀 I am interested in DevOps, Cloud and Software developpment. 
+🍊 I work at Orange Innovation.
+🏫 During my free time, I am teaching DevOps module @Université Gustave Eiffel.
 
-- follow me :
+Follow me :
 -   https://www.linkedin.com/in/thibault-saussac-0b5a5173/
 -   On twitter : @ThibaultSaussac
 
